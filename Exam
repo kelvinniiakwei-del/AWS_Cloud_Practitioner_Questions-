@@ -3,8 +3,7 @@
  B. Amazon Route 53
  C. AWS Direct Connect
  D. Amazon VPC
- <details>
- <summary><b>Click to see the answer</b></summary>
- >Correct Answer: A. Security Groups
-
+ 
+ <details markdown=1><summary markdown='span'>Answer</summary>
+  Correct Answer: A. Security Groups
  </details>
