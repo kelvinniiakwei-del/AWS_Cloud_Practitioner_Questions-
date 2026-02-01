@@ -1,0 +1,9 @@
+ Which AWS service or feature gives a company the ability to control incoming traffic and outgoing traffic for Amazon EC2 instances?
+ A. Security groups
+ B. Amazon Route 53
+ C. AWS Direct Connect
+ D. Amazon VPC
+ <details>
+ <summary><b>Answer</b></summary>
+ >Correct Answer: A
+ </details>
